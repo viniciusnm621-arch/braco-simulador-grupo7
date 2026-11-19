@@ -1,0 +1,22 @@
+PASSO A PASSO DO GITHUB - Grupo 7
+Repositório: braco-simulador-grupo7
+Pasta com os arquivos: G:\.shortcut-targets-by-id\1xrhHlMAtyk91J6fRxJblc_q6cwsD1UYd\Trabalho de PDP - Grupo 7\Braço RA\SITE_GRUPO_7
+
+1. Entre em github.com com a conta de um integrante (sem conta: Sign up, confirme o código do e-mail).
+2. Clique no + (canto superior direito) > New repository.
+3. Repository name: braco-simulador-grupo7
+   Marque Public. Marque Add a README file. Clique em Create repository.
+4. Na página do repositório: Add file > Upload files.
+5. Abra a pasta SITE_GRUPO_7 no computador, selecione TODOS os arquivos de dentro dela
+   (Ctrl+A no Windows, Cmd+A no Mac) e arraste para a página. Arraste os arquivos, não a pasta.
+6. Espere a lista mostrar os arquivos e clique em Commit changes.
+7. Settings (aba no topo) > Pages (menu à esquerda) > Source: Deploy from a branch >
+   Branch: main e / (root) > clique em Save.
+8. Aba Actions: espere "pages build and deployment" ficar verde (1 a 10 minutos).
+9. Link do site: https://viniciusnm621-arch.github.io/braco-simulador-grupo7/
+   (se aparecer NOME-DE-USUARIO, troque pelo nome de usuário de quem criou o repositório)
+10. Teste: no computador abra o link e use "Pegar e levar a peça"; no celular toque em
+    "Ver em realidade aumentada" (Android: Chrome; iPhone: Safari).
+
+Para atualizar depois: rode o 3_exportar_RA.py de novo e repita os passos 4 a 6
+(arquivos com o mesmo nome são substituídos). Espere o Actions ficar verde e recarregue a página.
